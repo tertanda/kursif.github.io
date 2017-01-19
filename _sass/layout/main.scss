@@ -174,12 +174,12 @@
  | AVATAR STARTS
  */
 .site-service__img,
-.site-team__img { width: 5rem; }
-
 .site-team__img {
-    border-radius: 100%;
     margin-bottom: 0.6125rem;
+    width: 5rem;
 }
+
+.site-team__img { border-radius: 100%; }
 /*
  | AVATAR ENDS
  */
