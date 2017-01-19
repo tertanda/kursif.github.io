@@ -1,0 +1,11 @@
+<section class="site-sec__main-intro">
+    <div class="page-wrapper">
+        {%if page.url == '/artikel/'%}
+        <h1>{{page.heading}}</h1>
+        {%else%}
+        <h1>{{page.heading}}</h1>
+        <p class="site-sec__main-intro-text">{{page.intro}}</p>
+        <p><a href="#kontak" title="Hubungi Kami" class="site-btn__base site-btn__primary">Hubungi Kami</a></p>
+        {%endif%}
+    </div>
+</section>

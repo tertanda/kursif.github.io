@@ -1,0 +1,64 @@
+@media screen and (min-width: 375px) {
+    body { font-size: 1.1487rem; }
+    
+    .page-header { font-size: 1rem; }
+}
+
+
+
+@media screen and (min-width: 580px) {
+    .page-wrapper { width: 80%; }
+}
+
+
+
+@media screen and (min-width: 680px) {    
+    .page-wrapper { width: 585px; }
+        
+    .site-mobile, .site-nav__mobile { display: none; }
+    
+    .site-nav__list { float: right; }
+    
+    .site-nav__desktop { display: block; }
+    
+    .site-nav__item {
+        float: left;
+        margin-left: 2rem;
+    }
+    
+    .site-nav__item:first-of-type { margin-left: 0; }
+    
+    .page-aside {
+        float: left;
+        margin-right: 5%;
+        width: 47.5%;
+    }
+    
+    .page-aside:nth-of-type(2n+2) { margin-right: 0; }
+
+    .page-aside:first-of-type,
+    .page-aside:nth-of-type(2) { margin-top: 0; }
+
+    .site-value__delimiter { padding-top: 2rem; }
+    
+    /*
+     | SHAME STARTS
+     */
+    .no-whitespace { margin-bottom: 0; }
+    /*
+     | SHAME ENDS
+     */
+}
+
+
+
+@media screen and (min-width: 1024px) {
+    a:hover { color: #333; }
+    
+    .site-btn__primary:hover {
+        background-color: #fd206b;
+        color: #fafafa;
+    }
+    
+    .site-btn__secondary:hover { border-color: #333; }
+}

@@ -1,0 +1,12 @@
+<li class="site-nav__item">
+    <a href="{%if page.url == '/daftar-harga/'%}{{site.baseurl}}/daftar-harga/#{%else%}{{site.baseurl}}/daftar-harga/{%endif%}" class="site-nav__link {%if page.url == '/daftar-harga/'%}you-are-here{%endif%}" title="Daftar Harga">Daftar Harga</a>
+</li>
+<li class="site-nav__item">
+    <a href="{%if page.url contains '/layanan/'%}{{site.baseurl}}/layanan/#{%else%}{{site.baseurl}}/layanan/{%endif%}" class="site-nav__link {%if page.url == '/layanan/'%}you-are-here{%endif%}" title="Layanan Kursif">Layanan</a>
+</li>
+<li class="site-nav__item">
+    <a href="{%if page.url == '/tentang/'%}{{site.baseurl}}/tentang/#{%else%}{{site.baseurl}}/tentang/{%endif%}" class="site-nav__link {%if page.url == '/tentang/'%}you-are-here{%endif%}" title="Tentang Kursif">Tentang</a>
+</li>
+<li class="site-nav__item">
+    <a href="{%if page.url contains '/artikel/'%}{{site.baseurl}}/artikel/#{%else%}{{site.baseurl}}/artikel/{%endif%}" class="site-nav__link {%if page.url contains '/artikel/'%}you-are-here{%endif%}" title="Artikel Kursif">Artikel</a>
+</li>

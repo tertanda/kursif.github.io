@@ -1,0 +1,9 @@
+<section class="site-sec__main-page">
+    <ul class="site-sec__article page-wrapper page-nolist">
+        {%for post in site.categories.artikel%}
+        <li class="site-article__item">
+            <a href="{{post.url}}" title="{{post.title}}" class="site-article__link">{%include part/list.html%}</a>
+        </li>
+        {%endfor%}
+    </ul>
+</section>

@@ -1,0 +1,88 @@
+/*
+ * BASE STARTS
+ */
+/*
+ | MAIN STARTS
+ */
+html { box-sizing: border-box; }
+
+*,
+*:before,
+*:after { box-sizing: inherit; }
+
+body {
+    background-color: #fff;
+    color: #333;
+    font-family: "Source Sans Pro", "Helvetica", sans-serif;
+    font-size: 1rem;
+    margin: 0;
+}
+
+a {
+    color: #E91E63;
+    text-decoration: none;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+article ul,
+article ol { margin-left: -1.175rem; }
+/*
+ | MAIN ENDS
+ */
+
+
+
+/*
+ | LAYOUT STARTS
+ */
+.page-nolist {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.page-wrapper {
+    margin: 0 auto;
+    width: 85%;
+}
+
+.page-column::after {
+    clear: both;
+    content: " ";
+    display: table;
+}
+/*
+ | LAYOUT ENDS
+ */
+
+
+
+/*
+ | BUTTON STARTS
+ */
+.site-btn__base {
+    border-radius: 0.125rem;
+    display: inline-block;
+    padding: 0.75rem 1.25rem;
+}
+
+.site-btn__primary {
+    background-color: #E91E63;
+    color: #fafafa;
+}
+
+.site-btn__secondary {
+    border: 1px solid #E91E63;
+    color: #E91E63;
+}
+/*
+ | BUTTON ENDS
+ */
+/*
+ * BASE ENDS
+ */

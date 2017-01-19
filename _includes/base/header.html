@@ -1,0 +1,14 @@
+<header class="page-header page-column">
+    <nav class="site-nav page-column page-wrapper">
+        <a href="{%if page.url == '/'%}{{site.baseurl}}/#{%else%}{{site.baseurl}}/{%endif%}" class="site-nav__home site-nav__link {%if page.url == '/'%}you-are-here{%endif%}" title="Halaman Utama">Kursif</a>
+        <a href="#" title="Menu" id="js-mobile-nav" class="site-nav__mobile site-nav__link">Menu</a>
+        <ul class="site-nav__desktop site-nav__list page-nolist page-column">
+            {%include part/nav.html%}
+        </ul>
+    </nav>
+    <nav class="site-mobile">
+        <ul class="site-nav__list page-wrapper page-nolist page-column">
+            {%include part/nav.html%}
+        </ul>
+    </nav>
+</header>

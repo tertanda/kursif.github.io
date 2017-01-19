@@ -1,0 +1,9 @@
+<main class="page-main">
+    {%if page.url contains '/artikel/'%}
+        {{content}}
+    {%else%}
+        {%include sec/intro.html%}
+        {{content}}
+    {%endif%}
+    {%include sec/offer.html%}
+</main>

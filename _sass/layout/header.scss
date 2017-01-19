@@ -1,0 +1,40 @@
+/*
+ * HEADER STARTS
+ */
+.page-header {
+    background-color: #fff;
+    border-bottom: 1px solid #eaeaea;
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.1);
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+}
+
+.site-nav__home { float: left; }
+
+.site-nav__mobile { float: right; }
+
+.site-nav__link {
+    display: block;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+
+.you-are-here { color: #333; }
+
+.site-mobile  {
+    max-height: 256px;
+    overflow-y: hidden;
+    text-align: center;
+	transition: all 0.5s cubic-bezier(0, 1, 0.5, 1);
+}
+
+.site-mobile-hide { max-height: 0; }
+
+.site-nav__desktop { display: none; }
+
+.site-mobile .site-nav__item { border-top: 1px solid #eaeaea; }
+/*
+ * HEADER ENDS
+ */
