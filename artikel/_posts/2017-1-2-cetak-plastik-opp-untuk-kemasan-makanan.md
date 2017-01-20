@@ -93,4 +93,4 @@ Daftar harga di atas belum termasuk biaya cetak plastik, namun hanya harga plast
 
 **Apakah ada minimal order jika saya ingin memesan?**
 
-Saat ini, kami menerapkan *minimal order* 1.000 lembar untuk plastik yang dicetak. Sedangkan, untuk plastik tanpa cetak (polos), kami menerapkan minimal order 500 lembar. Jika Anda membutuhkan informasi lebih lengkap, Anda dapat menghubungi kami.
+Saat ini, kami menerapkan *minimal order* 1.000 lembar untuk plastik yang dicetak. Sedangkan, untuk plastik tanpa cetak (polos), kami menerapkan *minimal order* 500 lembar. Jika Anda membutuhkan informasi lebih lengkap, Anda dapat menghubungi kami.
