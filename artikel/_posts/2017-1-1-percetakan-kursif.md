@@ -26,4 +26,4 @@ Gambar yang kami gunakan di situs ini berasal dari <a href="http://pinterest.com
 
 ### Kolofon
 
-Kami merancang dan mengelola situs ini. Seluruh kode ditulis menggunakan teknologi: HTML, Sass, JavaScript, Jekyll dan Brackets. Tipografi disusun menggunakan *font* Source Sans Pro yang dirancang oleh Paul D. Hunt dan disajikan melalui Google Fonts. Aset seperti gambar, kode, dsb., disimpan dan disajikan melalui Medium dan GitHub. Terima kasih untuk orang-orang yang membuatnya.
+Kami merancang dan mengelola situs ini. Seluruh kode ditulis menggunakan teknologi: HTML, Sass, JavaScript, Jekyll, dan Brackets. Tipografi disusun menggunakan *font* Source Sans Pro yang dirancang oleh Paul D. Hunt dan disajikan melalui Google Fonts. Aset seperti gambar, kode, dsb., disimpan dan disajikan melalui Medium dan GitHub. Terima kasih untuk orang-orang yang membuatnya.
