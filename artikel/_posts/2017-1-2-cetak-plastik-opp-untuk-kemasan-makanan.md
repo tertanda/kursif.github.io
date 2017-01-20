@@ -91,6 +91,6 @@ Untuk membantu Anda, kami menyediakan layanan cetak plastik OPP untuk kemasan ma
 
 Daftar harga di atas belum termasuk biaya cetak plastik, namun hanya harga plastik per lembar. Kami menerapkan biaya cetak plastik yang bervariasi, mulai dari Rp.65/warna hingga Rp.85/warna. Namun kabar baiknya, kami menawarkan potongan harga jika Anda mencetak plastik lebih dari 5.000 lembar.
 
-**Apakah ada *minimal order* jika saya ingin memesan?**
+**Apakah ada minimal order jika saya ingin memesan?**
 
 Saat ini, kami menerapkan *minimal order* 1.000 lembar untuk plastik yang dicetak. Sedangkan, untuk plastik tanpa cetak (polos), kami menerapkan minimal order 500 lembar. Jika Anda membutuhkan informasi lebih lengkap, Anda dapat menghubungi kami.
