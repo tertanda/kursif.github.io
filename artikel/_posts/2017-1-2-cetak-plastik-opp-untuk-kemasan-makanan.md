@@ -16,7 +16,7 @@ Jika Anda sedang mencari plastik kemasan makanan untuk produk seperti roti, kue,
 
 Untuk membantu Anda, kami menyediakan layanan cetak plastik OPP untuk kemasan makanan. Kami memiliki banyak macam ukuran dan jenis plastik OPP dengan harga mulai dari Rp.30. Berikut adalah daftar harga plastik OPP Lem, untuk melihat daftar harga plastik yang lain, Anda dapat mengunjungi halaman <a href="http://kursif.com/daftar-harga/" title="Daftar Harga Plastik">Daftar Harga</a>.
 
-<div class="site-sec__main-service-item page-aside">
+<div class="site-sec__main-service-item page-aside no-whitespace">
     <ul class="site-service__price page-nolist">
         <li class="site-price__item site-price__head page-column">
             <span class="site-item__type">Plastik</span><span class="site-item__size">Ukuran<sup></sup></span><span class="site-item__price">Harga</span>
@@ -85,7 +85,7 @@ Untuk membantu Anda, kami menyediakan layanan cetak plastik OPP untuk kemasan ma
     </ul>
 </div>
 
-Jika ukuran yang Anda butuhkan tidak ada, silahkan hubungi kami.
+<p class="shame-clear">Jika ukuran yang Anda butuhkan tidak ada, silahkan hubungi kami.</p>
 
 **Apakah daftar harga di atas sudah termasuk biaya cetak plastik?**
 
