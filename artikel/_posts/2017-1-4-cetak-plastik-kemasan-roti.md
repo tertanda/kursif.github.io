@@ -91,7 +91,7 @@ Berikut adalah daftar harga plastik kemasan roti yang umumnya digunakan oleh pel
 
 Kami melayani pembelian plastik kemasan polos. Harga yang tertulis di atas adalah daftar harga plastik kemasan polos tanpa cetak—belum termasuk biaya cetak. Untuk plastik kemasan polos, kami menerapkan *minimal order* hanya sebanyak 500 lembar.
 
-**Berapa harga cetak plastik kemasan?**
+**Berapa biaya cetak plastik kemasan?**
 
 Biaya cetak plastik kemasan mulai dari Rp.65/warna hingga Rp.85/warna. Kami menentukan harga cetak tergantung berapa warna yang Anda butuhkan. Untuk plastik kemasan yang dicetak, kami menerapkan *minimal order* sebanyak 1.000 lembar.
 
