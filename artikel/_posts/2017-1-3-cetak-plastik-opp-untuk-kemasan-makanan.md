@@ -12,7 +12,7 @@ meta     : Cetak Plastik OPP untuk Kemasan Makanan. Plastik OPP dapat melindungi
 
 Jika Anda sedang mencari plastik kemasan makanan untuk produk seperti roti, kue, dsb., maka kami menyarankan untuk menggunakan plastik OPP. Alasannya, plastik OPP dapat melindungi produk makanan dengan lebih baik. Ditambah, karena berbahan halus dan bening, plastik OPP dapat membuat produk makanan tampil lebih menarik.
 
-<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/800/1*w-yUVZnSMXV5hsRiXdvzwg.jpeg" alt="Cetak Plastik OPP untuk Kemasan Makanan" title="Cetak Plastik OPP untuk Kemasan Makanan"><span class="img-caption">Cetak Plastik OPP untuk Kemasan Makanan &copy; Pinterest</span>
+<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/720/1*hnmyGEHmqwf5wbTW0k_5Hw.jpeg" alt="Cetak Plastik OPP untuk Kemasan Makanan" title="Cetak Plastik OPP untuk Kemasan Makanan"><span class="img-caption">Cetak Plastik OPP untuk Kemasan Makanan &copy; Pinterest</span>
 
 Untuk membantu Anda, kami menyediakan layanan cetak plastik OPP untuk kemasan makanan. Kami memiliki banyak macam ukuran dan jenis plastik OPP dengan harga mulai dari Rp.30. Berikut adalah daftar harga plastik OPP *Seal*, untuk melihat daftar harga plastik yang lain, Anda dapat mengunjungi halaman <a href="http://kursif.com/daftar-harga/" title="Daftar Harga Plastik">Daftar Harga</a>.
 
