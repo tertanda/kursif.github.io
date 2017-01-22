@@ -89,7 +89,7 @@ Berikut adalah daftar harga plastik kemasan roti yang umumnya digunakan oleh pel
 
 <p class="shame-clear"><strong>Apakah Kursif melayani pembelian plastik kemasan polos?</strong></p>
 
-Kami melayani pembelian plastik kemasan polos. Harga yang tertulis di atas adalah daftar harga plastik kemasan polos tanpa cetakâ€”belum termasuk biaya cetak. Untuk plastik kemasan polos, kami menerapkan *minimal order* hanya sebanyak 500 lembar.
+Kami melayani pembelian plastik kemasan polos. Harga yang tertulis di atas adalah daftar harga plastik kemasan polos tanpa cetak—belum termasuk biaya cetak. Untuk plastik kemasan polos, kami menerapkan *minimal order* hanya sebanyak 500 lembar.
 
 **Berapa harga cetak plastik kemasan?**
 
