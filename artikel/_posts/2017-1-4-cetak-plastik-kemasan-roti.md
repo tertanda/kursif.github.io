@@ -18,7 +18,7 @@ Keuntungan lainnya adalah, selain tampilannya yang menarik, plastik OPP berharga
 
 Berikut adalah daftar harga plastik kemasan roti yang umumnya digunakan oleh pelanggan kami. Jika Anda ingin melihat daftar harga plastik yang lain, kunjungi halaman <a href="http://kursif.com/daftar-harga/" title="Daftar Harga Plastik">Daftar Harga</a>. Sedangkan, jika ukuran yang Anda cari tidak ada, silahkan hubungi kami.
 
-<div class="site-sec__main-service-item page-aside">
+<div class="site-sec__main-service-item page-aside no-whitespace">
     <ul class="site-service__price page-nolist">
         <li class="site-price__item site-price__head page-column">
             <span class="site-item__type">Plastik</span><span class="site-item__size">Ukuran<sup></sup></span><span class="site-item__price">Harga</span>
