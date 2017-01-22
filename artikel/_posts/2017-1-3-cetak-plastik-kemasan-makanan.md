@@ -14,7 +14,9 @@ Jika Anda sedang mencari atau ingin mencetak plastik kemasan makanan untuk produ
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/720/1*hnmyGEHmqwf5wbTW0k_5Hw.jpeg" alt="Cetak Plastik Kemasan Makanan" title="Cetak Plastik Kemasan Makanan"><span class="img-caption">Cetak plastik kemasan makanan. &copy; Pinterest</span>
 
-Untuk membantu Anda, kami menyediakan layanan cetak plastik kemasan makanan. Kami memiliki banyak macam ukuran dan jenis plastik mulai dari OPP Duduk hingga OPP *Seal*, dengan harga mulai dari Rp.30. Berikut adalah daftar harga plastik OPP *Seal*, untuk melihat daftar harga plastik yang lain, Anda dapat mengunjungi halaman <a href="http://kursif.com/daftar-harga/" title="Daftar Harga Plastik">Daftar Harga</a>.
+Untuk membantu Anda, kami menyediakan layanan cetak plastik kemasan makanan. Kami memiliki banyak macam ukuran dan jenis plastik mulai dari OPP Duduk hingga OPP *Seal*, dengan harga mulai dari Rp.30 per lembar.
+
+Berikut adalah daftar harga plastik OPP *Seal*, untuk melihat daftar harga plastik yang lain, Anda dapat mengunjungi halaman <a href="http://kursif.com/daftar-harga/" title="Daftar Harga Plastik">Daftar Harga</a>. Jika ukuran yang Anda butuhkan tidak ada, silahkan hubungi kami.
 
 <div class="site-sec__main-service-item page-aside no-whitespace">
     <ul class="site-service__price page-nolist">
@@ -85,11 +87,9 @@ Untuk membantu Anda, kami menyediakan layanan cetak plastik kemasan makanan. Kam
     </ul>
 </div>
 
-<p class="shame-clear">Jika ukuran yang Anda butuhkan tidak ada, silahkan hubungi kami.</p>
+<p class="shame-clear"><strong>Apakah daftar harga di atas sudah termasuk biaya cetak plastik?</strong></p>
 
-**Apakah daftar harga di atas sudah termasuk biaya cetak plastik?**
-
-Daftar harga di atas belum termasuk biaya cetak plastik, namun hanya harga plastik per lembar. Kami menerapkan biaya cetak plastik yang bervariasi, mulai dari Rp.65/warna hingga Rp.85/warna. Namun kabar baiknya, kami menawarkan potongan harga jika Anda mencetak plastik lebih dari 5.000 lembar.
+Daftar harga di atas belum termasuk biaya cetak plastik, namun hanya harga plastik per lembar. Kami menerapkan biaya cetak plastik yang bervariasi, mulai dari Rp.65/warna hingga Rp.85/warna.
 
 **Apakah ada minimal order jika saya ingin memesan?**
 
