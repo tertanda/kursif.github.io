@@ -97,4 +97,4 @@ Biaya cetak plastik kemasan mulai dari Rp.65/warna hingga Rp.85/warna. Kami mene
 
 **Bagaimana cara pemesanan?**
 
-Pemesanan prosesnya cukup mudah, Anda hanya perlu menghubungi kami, dan kami akan melayani Anda. Kami berpusat di kota Surakarta, Jawa Tengah, dan melayani konsumen dari seluruh Indonesia. Jika Anda memerlukan informasi yang lebih lengkap, silahkan hubungi kami.
+Proses pemesanan cukup mudah, Anda hanya perlu menghubungi kami, dan kami akan melayani Anda. Kami berpusat di kota Surakarta, Jawa Tengah, dan melayani konsumen dari seluruh Indonesia. Jika Anda memerlukan informasi yang lebih lengkap, silahkan hubungi kami.
