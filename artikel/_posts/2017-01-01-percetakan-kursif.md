@@ -12,8 +12,6 @@ meta     : Kursif adalah percetakan yang berfokus dalam mencetak stiker, plastik
 
 Kursif adalah percetakan yang berfokus dalam mencetak stiker, plastik, kardus, kartu nama, brosur, *paper bag*, dsb. Kami berpusat di kota Surakarta, Jawa Tengah, dan melayani konsumen di seluruh Indonesia.
 
-<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/720/1*e8_hYmk2GVUW0G9WNca-yg.jpeg" alt="Cetak Plastik" title="Cetak Plastik"><span class="img-caption">Cetak Plastik &copy; Pinterest</span>
-
 Kami adalah tim yang terdiri dari desainer dan *typographer*. Dengan pengalaman dan pengetahuan tentang desain dan bisnis, kami dapat membantu Anda memperbaiki penampilan produk Anda. Karena desain yang baik bedampak positif pada bisnis.
 
 > Good design is a good business. — Thomas J. Watson
