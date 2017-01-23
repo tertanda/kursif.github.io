@@ -24,7 +24,7 @@ Jika Anda sedang mencari atau ingin mencetak plastik kresek, kami dapat membantu
 
 **Apakah daftar harga di atas sudah termasuk biaya cetak plastik kresek?**
 
-Belum, daftar harga di atas hanyalah harga plastik kresek per lembar. Kami menerapkan biaya cetak plastik yang bervariasi, mulai dari Rp.65/warna hingga Rp.85/warna. Biaya cetak tergantung berapa warna yang Anda inginkan.
+Belum, daftar harga di atas hanyalah harga plastik kresek per lembar. Kami menerapkan biaya cetak plastik yang bervariasi, mulai dari Rp.65/warna hingga Rp.85/warna. Biaya cetak plastik kresek tergantung berapa warna yang Anda inginkan.
 
 **Apakah Kursif melayani pembelian plastik kresek polos?**
 
