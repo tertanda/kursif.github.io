@@ -16,7 +16,7 @@ Bukan hanya melindungi produk, kemasan yang tepat akan membuat produk tampil leb
 
 Untuk membantu Anda, kami melayani pembelian kemasan plastik OPP polos maupun cetak kemasan plastik OPP. Ditambah, kami menawarkan banyak macam dan ukuran plastik OPP. Berikut adalah daftar harga kemasan plastik OPP Seal.
 
-{%include part/price/opp-seal.html%}
+{%include part/price/plastik-opp.html%}
 
 <p class="shame-clear">Untuk daftar harga plastik yang lain, silahkan kunjungi halaman <a href="http://kursif.com/daftar-harga/" title="Daftar Harga Plastik">Daftar Harga</a>. Jika ukuran yang Anda cari tidak ada, silahkan hubungi kami.</p>
 
