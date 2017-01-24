@@ -18,7 +18,7 @@ Untuk membantu Anda, kami menyediakan layanan cetak plastik kemasan makanan. Kam
 
 Berikut adalah daftar harga plastik OPP *Seal*, untuk melihat daftar harga plastik yang lain, Anda dapat mengunjungi halaman <a href="http://kursif.com/daftar-harga/" title="Daftar Harga Plastik">Daftar Harga</a>. Jika ukuran yang Anda butuhkan tidak ada, silahkan hubungi kami.
 
-{%include part/price/opp-seal.html%}
+{%include part/price/plastik-opp.html%}
 
 <p class="shame-clear"><strong>Apakah daftar harga di atas sudah termasuk biaya cetak plastik?</strong></p>
 
