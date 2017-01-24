@@ -16,7 +16,7 @@ Plastik PP adalah jenis kemasan plastik yang paling cocok untuk produk makanan s
 
 Berbeda dengan plastik OPP, plastik PP terasa lebih kaku dan terlihat tidak terlalu bening. Plastik PP tersedia dalam ketebalan yang bervariasi, karena dibuat khusus untuk melindungi produk makanan dalam waktu yang lama.
 
-Berikut adalah daftar harga kemasan plastik PP yang kami jual. Untuk daftar harga yang lebih lengkap, silahkan kunjungi halaman <a href="http://kursif.com/daftar-harga/" title="Daftar Harga Plastik">Daftar Harga</a>. Sedangkan, jika ukuran yang Anda cari tidak ada, silahkan hubungi kami.
+Berikut adalah perbandingan harga antara kemasan plastik PP dan plastik OPP yang kami jual. Untuk daftar harga yang lebih lengkap, silahkan kunjungi halaman <a href="http://kursif.com/daftar-harga/" title="Daftar Harga Plastik">Daftar Harga</a>. Sedangkan, jika ukuran yang Anda cari tidak ada, silahkan hubungi kami.
 
 {%include part/price/plastik-pp.html%}
 
