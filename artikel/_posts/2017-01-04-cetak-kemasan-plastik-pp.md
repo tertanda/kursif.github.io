@@ -5,7 +5,7 @@ permalink: artikel/:title
 title    : Cetak Kemasan Plastik PP
 author   : El Nino H. Maulana
 intro    : "Plastik PP adalah jenis kemasan plastik yang paling cocok untuk produk makanan seperti: krupuk, beras, dsb. Alasannya, karena plastik PP dibuat untuk menjaga produk makanan dalam waktu yang lama."
-meta     : Cetak Kemasan Plastik PP. Plastik PP adalah jenis kemasan plastik yang paling cocok untuk produk makanan seperti: krupuk, beras, dsb. Alasannya, karena plastik PP dibuat untuk menjaga produk makanan dalam waktu yang lama.
+meta     : "Cetak Kemasan Plastik PP. Plastik PP adalah jenis kemasan plastik yang paling cocok untuk produk makanan seperti: krupuk, beras, dsb. Alasannya, karena plastik PP dibuat untuk menjaga produk makanan dalam waktu yang lama."
 ---
 
 # Cetak Kemasan Plastik PP
