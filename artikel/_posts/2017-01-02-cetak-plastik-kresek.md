@@ -16,7 +16,7 @@ Salah satu keunggulan plastik kresek adalah tersedia dalam banyak ukuran dan bah
 
 Jika Anda sedang mencari atau ingin mencetak plastik kresek, kami dapat membantu Anda. Kami menyediakan banyak macam ukuran dan jenis plastik kresek, dengan harga mulai dari Rp.200 per lembar. Berikut adalah daftar harga plastik kresek yang sering digunakan konsumen kami.
 
-{%include part/price/kresek.html%}
+{%include part/price/plastik-kresek.html%}
 
 <p class="shame-clear">Bukan hanya menjual dan mencetak plastik kresek, kami juga menyediakan berbagai macam jenis plastik. Jadi, Anda sedang berada di tempat yang tepat. Untuk daftar harga plastik yang lain, silahkan kunjungi halaman <a href="http://kursif.com/daftar-harga/" title="Daftar Harga Plastik">Daftar Harga</a>. Sedangkan, jika ukuran yang Anda cari tidak ada, silahkan hubungi kami.</p>
 
