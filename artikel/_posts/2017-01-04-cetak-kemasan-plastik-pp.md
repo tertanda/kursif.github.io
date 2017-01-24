@@ -20,10 +20,10 @@ Berikut adalah daftar harga kemasan plastik PP yang kami jual. Untuk daftar harg
 
 {%include part/price/plastik-pp.html%}
 
-**Apakah ada minimal order?**
+<p><strong>Apakah ada minimal order?</strong></p>
 
 Ya, untuk pembelian kemasan plastik PP polos, *minimal order* adalah 500 lembar. Sedangkan, untuk pemesanan cetak kemasan plastik PP, *minimal order* adalah 1000 lembar. Jenis plastik apa pun yang Anda pesan, kami menerapkan *minimal order* yang sama.
 
 **Bagaimana cara pemesanannya?**
 
-Anda hanya perlu menghubungi kami, dan kami akan melayani Anda. Kami memerlukan waktu empat hari untuk menyelesaikan pesanan. Setelah proses pembayaran selesai, kami akan mengirimnya, di mana pun lokasi Anda.
+Anda hanya perlu menghubungi kami, dan kami akan melayani Anda. Kami memerlukan waktu empat hari untuk menyelesaikan pesanan. Setelah proses selesai, kami akan mengirimnya, di mana pun lokasi Anda.
