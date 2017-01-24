@@ -22,7 +22,7 @@ Berikut adalah perbandingan harga antara kemasan plastik PP dan plastik OPP yang
 
 <p class="shame-clear"><strong>Apakah ada minimal order?</strong></p>
 
-Ya, untuk pembelian kemasan plastik PP polos, *minimal order* adalah 500 lembar. Sedangkan, untuk pemesanan cetak kemasan plastik PP, *minimal order* adalah 1000 lembar. Jenis plastik apa pun yang Anda pesan, kami menerapkan *minimal order* yang sama.
+Ya, untuk pembelian kemasan plastik PP polos, *minimal order* adalah 500 lembar. Sedangkan, untuk pemesanan cetak kemasan plastik PP, *minimal order* adalah 1.000 lembar. Jenis plastik apa pun yang Anda pesan, kami menerapkan *minimal order* yang sama.
 
 **Bagaimana cara pemesanannya?**
 
