@@ -20,7 +20,7 @@ Kami ingin membantu Anda. Kami menyediakan layanan cetak stiker *full color* unt
 
 Berikut daftar harga cetak stiker *full color* dengan bahan *mirror* atau pun *vinyl*. Jika ukuran yang Anda cari tidak ada, silahkan hubungi kami.
 
-{%include price/part/stiker.html%}
+{%include part/price/stiker.html%}
 
 <p class="shame-clear"><strong>Apakah harga sudah termasuk biaya potong?</strong></p>
 
