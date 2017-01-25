@@ -28,4 +28,4 @@ Ya, daftar harga di atas sudah termasuk biaya cetak stiker *full color* dan poto
 
 **Berapa minimum order cetak stiker?**
 
-*Minimum order* untuk cetak stiker full color adalah 250 lembar. Jika Anda belum memiliki desain, kami akan membuatkannya untuk Anda—ngomong-ngomong, kami merancang dan menulis seluruh kode situs ini. Untuk informasi lebih lengkap, silahkan hubungi kami.
+Untuk cetak stiker *full color,* *minimum order* adalah 250 lembar. Jika Anda belum memiliki desain, kami akan membuatkannya untuk Anda—ngomong-ngomong, kami merancang dan menulis seluruh kode situs ini. Untuk informasi lebih lengkap, silahkan hubungi kami.
