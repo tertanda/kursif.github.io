@@ -5,7 +5,7 @@ permalink: artikel/:title
 title    : Cetak Stiker Full Color
 author   : El Nino H. Maulana
 intro    : Saat ini, konsumen semakin peduli dengan penampilan produk. Semakin baik penampilan produk, semakin senang konsumen membelinya. Jadi, Anda sebaiknya memberikan pelayanan dan produk yang terbaik.
-meta     : Cetak Stiker Full Color. Kami menyediakan layanan cetak stiker full color untuk segala macam kebutuhan, seperti: label makanan, stiker galon, dsb., dengan berbagai pilihan bahan stiker.
+meta     : "Cetak Stiker Full Color. Kami menyediakan layanan cetak stiker full color untuk segala macam kebutuhan, seperti: label makanan, stiker galon, dsb., dengan berbagai pilihan bahan stiker."
 ---
 
 # Cetak Stiker Full Color
