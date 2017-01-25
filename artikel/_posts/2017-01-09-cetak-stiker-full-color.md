@@ -5,7 +5,7 @@ permalink: artikel/:title
 title    : Cetak Stiker Full Color
 author   : El Nino H. Maulana
 intro    : Saat ini, konsumen semakin peduli dengan penampilan produk. Semakin baik penampilan produk, semakin senang konsumen membelinya. Jadi, Anda sebaiknya memberikan pelayanan dan produk yang terbaik.
-meta     : "Cetak Stiker Full Color. Kami menyediakan layanan cetak stiker full color untuk segala macam kebutuhan, seperti: label makanan, stiker galon, dsb., dengan berbagai pilihan bahan stiker."
+meta     : Cetak Stiker Full Color. Kami menyediakan layanan cetak stiker full color untuk segala macam kebutuhan, seperti label makanan, stiker galon, dsb., dengan berbagai pilihan bahan stiker.
 ---
 
 # Cetak Stiker Full Color
@@ -22,7 +22,7 @@ Berikut daftar harga cetak stiker *full color* dengan bahan *mirror* atau pun *v
 
 {%include price/part/stiker.html%}
 
-<p class="shame-clear">**Apakah harga sudah termasuk biaya potong?**</p>
+<p class="shame-clear"><strong>Apakah harga sudah termasuk biaya potong?</strong></p>
 
 Ya, daftar harga di atas sudah termasuk biaya cetak stiker *full color* dan potong sesuai bentuk (*die-cut sticker*). Bagaimana pun bentuk stiker yang Anda inginkan, kami dapat memotongnya menggunakan mesin. Jadi, Anda tidak perlu repot memotongnya.
 
