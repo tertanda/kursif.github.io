@@ -26,6 +26,6 @@ Berikut daftar harga cetak stiker *full color* dengan bahan *mirror* atau pun *v
 
 Ya, daftar harga di atas sudah termasuk biaya cetak stiker *full color* dan potong sesuai bentuk (*die-cut sticker*). Bagaimana pun bentuk stiker yang Anda inginkan, kami dapat memotongnya menggunakan mesin. Jadi, Anda tidak perlu repot memotongnya.
 
-**Berapa minimum order cetak stiker?**
+**Berapa minimal order cetak stiker?**
 
-Untuk cetak stiker *full color,* *minimum order* adalah 250 lembar. Jika Anda belum memiliki desain, kami akan membuatkannya untuk Anda—ngomong-ngomong, kami merancang dan menulis seluruh kode situs ini. Untuk informasi lebih lengkap, silahkan hubungi kami.
+Untuk cetak stiker *full color,* *minimal order* adalah 250 lembar. Jika Anda belum memiliki desain, kami akan membuatkannya untuk Anda—ngomong-ngomong, kami merancang dan menulis seluruh kode situs ini. Untuk informasi lebih lengkap, silahkan hubungi kami.
