@@ -18,7 +18,7 @@ Bukan hanya itu saja, stiker *vinyl* dapat menyerap tinta dengan lebih baik. Seh
 
 Kami menyediakan layanan cetak stiker *vinyl full color* untuk segala macam kebutuhan dengan berbagai ukuran. Berikut daftar harga cetak stiker *vinyl full color* dengan ukuran yang sering digunakan konsumen kami, jika ukuran yang Anda cari tidak ada, silahkan hubungi kami.
 
-{%include price/part/stiker.html%}
+{%include part/price/stiker.html%}
 
 <p class="shame-clear"><strong>Apakah harga sudah termasuk biaya potong?</strong></p>
 
