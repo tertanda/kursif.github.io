@@ -22,7 +22,7 @@ Berikut daftar harga stiker kromo *full color* yang kami sediakan. Untuk saat in
 
 <p class="shame-clear"><strong>Apakah harga sudah termasuk biaya cetak dan potong?</strong></p>
 
-Ya, daftar harga di atas sudah termasuk biaya cetak stiker *full color* dan potong sesuai bentuk (*die-cut sticker*). Karena semuanya dikerjakan oleh mesin, kami dapat menyelesaikan stiker pesanan Anda dalam waktu 2ndash4 hari. Mulai dari cetak hingga potong, kami memastikan hasil stiker yang berkualitas.
+Ya, daftar harga di atas sudah termasuk biaya cetak stiker *full color* dan potong sesuai bentuk (*die-cut sticker*). Karena semuanya dikerjakan oleh mesin, kami dapat menyelesaikan stiker pesanan Anda dalam waktu 2–4 hari. Kami memastikan hasil stiker yang berkualitas.
 
 **Berapa minimal order stiker full color?**
 
