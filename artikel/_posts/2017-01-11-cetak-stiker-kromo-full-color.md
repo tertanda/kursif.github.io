@@ -4,8 +4,8 @@ category : artikel
 permalink: artikel/:title
 title    : Cetak Stiker Kromo Full Color
 author   : El Nino H. Maulana
-intro    : Jika Anda membuat produk makanan, seperti roti, kripik, dsb., kami menyarankan untuk menggunakan stiker kromo sebagai label produk. Dengan Rp.175, Anda sudah dapat mencetak stiker kromo <em>full color</em> dengan bentuk apa pun.
-meta     : Cetak Stiker Kromo Full Color. Salah satu keunggulan menggunakan stiker kromo adalah dapat dicetak full color dengan biaya yang murah. Kami menyediakan layanan cetak stiker kromo full color dengan berbagai ukuran.
+intro    : Jika Anda membuat produk makanan, seperti roti, kripik, dsb., kami menyarankan untuk menggunakan stiker kromo sebagai label produk. Dengan Rp.175, Anda sudah dapat mencetak stiker kromo <em>full color</em>.
+meta     : Cetak Stiker Kromo Full Color. Salah satu keunggulan menggunakan stiker kromo adalah dapat dicetak full color dengan biaya yang murah. Kami menyediakan layanan cetak stiker kromo full color.
 ---
 
 # Cetak Stiker Kromo Full Color
