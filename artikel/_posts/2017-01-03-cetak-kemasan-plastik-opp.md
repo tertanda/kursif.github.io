@@ -5,7 +5,7 @@ permalink: artikel/:title
 title    : Cetak Kemasan Plastik OPP
 author   : El Nino H. Maulana
 intro    : Bukan hanya melindungi produk, kemasan yang tepat akan membuat produk tampil lebih baik. Untuk produk makanan seperti roti, kue, dsj., kemasan yang cocok digunakan adalah plastik OPP.
-meta     : Cetak Kemasan Plastik OPP. Kami melayani pembelian kemasan plastik OPP polos maupun cetak kemasan plastik OPP yang cocok digunakan untuk kemasan produk makanan seperti roti, kue, dsj.
+meta     : Cetak kemasan plastik OPP untuk kemasan produk makanan, seperti roti, kue, dsb.
 ---
 
 # Cetak Kemasan Plastik OPP
