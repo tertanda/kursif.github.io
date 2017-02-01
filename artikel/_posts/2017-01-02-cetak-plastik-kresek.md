@@ -5,7 +5,7 @@ permalink: artikel/:title
 title    : Cetak Plastik Kresek
 author   : El Nino H. Maulana
 intro    : Salah satu keunggulan plastik kresek adalah tersedia dalam banyak ukuran dan bahan. Selain itu, plastik kresek juga memiliki peran penting dalam industri—kita menggunakannya sebagai tempat belanjaan.
-meta     : Cetak Plastik Kresek. Jika Anda sedang mencari atau ingin mencetak plastik kresek, kami menyediakan banyak macam ukuran dan jenis plastik kresek, dengan harga mulai dari Rp.200 per lembar.
+meta     : Cetak plastik kresek untuk kantong belanjaan, harga mulai Rp.200,.
 ---
 
 # Cetak Plastik Kresek
