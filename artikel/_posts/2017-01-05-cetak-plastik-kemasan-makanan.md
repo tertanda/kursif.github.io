@@ -1,11 +1,11 @@
 ---
-layout   : post
-category : artikel
-permalink: artikel/:title
-title    : Cetak Plastik Kemasan Makanan
-author   : El Nino H. Maulana
-intro    : Jika Anda sedang mencari plastik kemasan makanan untuk produk seperti roti, maka kami menyarankan untuk menggunakan plastik OPP. Alasannya, plastik OPP dapat melindungi produk makanan dengan lebih baik.
-meta     : Cetak plastik kemasan makanan: Plastik OPP dan Plastik PP.
+layout   :  post
+category :  artikel
+permalink:  artikel/:title
+title    :  Cetak Plastik Kemasan Makanan
+author   :  El Nino H. Maulana
+intro    :  Jika Anda sedang mencari plastik kemasan makanan untuk produk seperti roti, maka kami menyarankan untuk menggunakan plastik OPP. Alasannya, plastik OPP dapat melindungi produk makanan dengan lebih baik.
+meta     : "Cetak plastik kemasan makanan: Plastik OPP dan Plastik PP."
 ---
 
 # Cetak Plastik Kemasan Makanan
