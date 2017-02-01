@@ -5,7 +5,7 @@ permalink: artikel/:title
 title    : Cetak Stiker Vinyl Full Color
 author   : El Nino H. Maulana
 intro    : Saat ini, banyak produk industri yang mulai beralih menggunakan stiker sebagai label produk. Salah satu alasannya adalah karena stiker dapat dicetak <em>full color</em> dengan harga yang terjangkau.
-meta     : Cetak Stiker Vinyl Full Color. Stiker vinyl populer digunakan karena dapat bertahan dari sinar matahari dan air. Kami menyediakan layanan cetak stiker vinyl full color untuk segala macam kebutuhan dengan berbagai ukuran. 
+meta     : Cetak stiker vinyl full color untuk label kemasan, merchandise, dsb.
 ---
 
 # Cetak Stiker Vinyl Full Color
