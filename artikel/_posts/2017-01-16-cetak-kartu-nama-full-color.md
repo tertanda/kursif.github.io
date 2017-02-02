@@ -12,7 +12,7 @@ meta     : Cetak kartu nama full color dengan harga mulai dari Rp.35.000,.
 
 Kartu nama menjadi salah satu benda wajib jika Anda memiliki bisnis. Salah satu alasannya, kartu nama adalah media terbaik untuk bertukar kontak dengan orang lain. Jika Anda selalu membawanya, Anda akan selalu siap jika bertemu orang yang berminat untuk melakukan bisnis dengan Anda.
 
-<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/720/1*TxXF-WdfJ40acEbLEtsnSA.jpeg" alt="Cetak Kartu Nama Full Color" title="Cetak Kartu Nama Full Color"><span class="img-caption">Cetak kartu nama <em>full color.</em> &copy; Pinterest</span>
+<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/720/1*5uPAGsuAxShwCQuM4-oIvw.jpeg" alt="Cetak Kartu Nama Full Color" title="Cetak Kartu Nama Full Color"><span class="img-caption">Cetak kartu nama <em>full color.</em> &copy; Pinterest</span>
 
 Kami menyediakan layanan cetak kartu nama *full color* dengan berbagai pilihan kualitas. Kami melayani cetak kartu nama pribadi mau pun perusahaan. Bukan hanya mencetak kartu nama, kami juga dapat membuat desain. Jadi, jika Anda belum memiliki desain, kami tetap dapat melayani Anda.
 
