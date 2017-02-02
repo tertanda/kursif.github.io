@@ -5,7 +5,7 @@ permalink: artikel/:title
 title    : Cetak Plastik Kemasan Roti
 author   : El Nino H. Maulana
 intro    : Umumnya, produk makanan seperti roti, kue, dsj., menggunakan plastik kemasan roti bernama plastik OPP. Alasannya, karena plastik OPP berbahan halus dan bening. Keuntungan lainnya adalah, plastik OPP berharga murah.
-meta     : Cetak plastik OPP untuk kemasan roti.
+meta     : Cetak plastik kemasan roti dengan harga mulai dari Rp.150,.
 ---
 
 # Cetak Plastik Kemasan Roti
