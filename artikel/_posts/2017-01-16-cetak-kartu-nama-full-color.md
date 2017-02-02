@@ -24,6 +24,6 @@ Berikut daftar harga cetak kartu nama *full color* untuk satu muka atau dua muka
 
 Hal itu tergantung ketebalan kartu nama; sekitar 80–100 lembar. Kami tidak memasukkan terlalu banyak kartu nama, karena itu akan berakibat buruk. Dan ya, daftar harga di atas sudah termasuk biaya cetak kartu nama *full color* dan *box*.
 
-*Apakah ada minimal order?*
+**Apakah ada minimal order?**
 
 Tidak, untuk cetak kartu nama, Anda dapat memesan mulai dari satu *box*. Lama pengerjaan cetak kartu nama adalah 1–2 hari. Setelah itu, kami akan mengirimnya di mana pun lokasi Anda. Untuk informasi lebih lengkap, silahkan hubungi kami.
