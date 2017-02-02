@@ -1,8 +1,8 @@
 ---
 layout : default
-title  : Artikel Desain dan Bisnis
+title  : Artikel
 heading: Artikel
-meta   : Temukan artikel desain dan bisnis dari seluruh dunia.
+meta   : Artikel desain, bisnis, dan teknologi untuk desainer.
 ---
 
 {%include sec/intro.html%}
