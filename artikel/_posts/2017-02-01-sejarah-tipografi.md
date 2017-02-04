@@ -12,11 +12,11 @@ meta     : Sejarah lengkap perkembangan tipografi, dari abad 11 hingga 21.
 
 Tahun 1040an, pada jaman Dinasti Song, di negara China, seorang pria bernama Bi Sheng menciptakan *movable type* untuk pertama kalinya. Hal tersebut dapat membantu negara China untuk mencetak buku secara masa. Karena kepopulerannya, *movable type* mulai menyebar ke Korea pada pertengahan abad ke-13.
 
-500 tahun kemudian, pada abad ke-15, Johannes Gutenberg menciptakan alat yang dapat bekerja lebih baik daripada ciptaan Bi Sheng. Banyak orang percaya jika Gutenberg menciptakan movable type, tetapi itu tidak benar. *Movable type* pertama kali diciptakan di Cina sekitar tahun 1040an oleh Bi Sheng.
+500 tahun kemudian, pada abad ke-15, Johannes Gutenberg menciptakan alat yang dapat bekerja lebih baik daripada ciptaan Bi Sheng. Banyak orang yang percaya jika Gutenberg menciptakan *movable type*, tetapi itu tidak benar. *Movable type* pertama kali diciptakan di negara China; sekitar tahun 1040an oleh Bi Sheng.
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/720/1*WwmRTo6hBfKgrG3OllmK-A.jpeg" alt="Ilustrasi Teknologi Ciptaan Gutenberg" title="Ilustrasi Teknologi Ciptaan Gutenberg"><span class="img-caption">Ilustrasi teknologi ciptaan Gutenberg.</span>
 
-Selain menciptakan alat yang lebih baik, Gutenberg juga menciptakan blackletter *typeface* bernama Textura. Ia menggunakan Textura untuk mencetak kitab suci injil untuk pertama kalinya, kitab tersebut dikenal dengan nama, Gutenberg Bible.
+Selain menciptakan alat yang lebih baik, Gutenberg juga menciptakan blackletter *typeface* bernama Textura. Ia menggunakan Textura untuk mencetak kitab suci Injil untuk pertama kalinya, kitab tersebut dikenal dengan nama, Gutenberg Bible.
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/720/1*YoCscF_Wfx6XA16j_lZB-A.jpeg" alt="Gutenberg Bible Menggunakan Textura" title="Gutenberg Bible Menggunakan Textura"><span class="img-caption">Gutenberg Bible menggunakan Textura.</span>
 
@@ -24,11 +24,11 @@ Teknologi yang diciptakan Gutenberg terus mendapat perhatian publik dan menyebar
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/720/1*SoHzq3EXZmUvA9ymLU7FCQ.jpeg" alt="Roman Type oleh Jenson" title="Roman Type oleh Jenson"><span class="img-caption">Roman Type oleh Jenson.</span>
 
-Nicolas Jenson adalah orang pertama yang membuat Roman Type. Jenson menjadi populer karena *typeface* ciptaannya yang lebih baik dari *typeface* ciptaan Gutenberg. Roman type adalah tipe typeface yang populer hingga saat ini.
+Jenson adalah orang pertama yang membuat Roman Type. Jenson menjadi populer karena *typeface* ciptaannya yang lebih baik dari *typeface* ciptaan Gutenberg. Roman type adalah tipe *typeface* yang populer hingga saat ini.
 
-<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/720/1*_cf5kOgo2PcUagsH6sGUkQ.jpeg" alt="Italic oleh Manutius" title="Italic oleh Manutius"><span class="img-caption">Italic oleh Manutius.</span>
+<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/720/1*_cf5kOgo2PcUagsH6sGUkQ.jpeg" alt="Italic oleh Manutius" title="Italic oleh Manutius"><span class="img-caption"><em>Italic</em> oleh Manutius.</span>
 
-Karena buku hanya dapat dikonsumsi orang kaya, pada abad ke-16, Aldus Manutius menciptakan *italic* untuk pertama kalinya, dengan tujuan agar dapat mengurangi biaya mencetak. Selain menciptakan *italic*, ia juga mengembangkan *semicolon*, *comma*, dan buku-buku yang berharga murah.
+Karena buku hanya dapat dikonsumsi orang kaya, pada abad ke-16, Aldus Manutius menciptakan *italic* untuk pertama kalinya, dengan tujuan agar dapat mengurangi biaya cetak. Selain menciptakan *italic*, ia juga mengembangkan *semicolon*, *comma*, dan buku-buku yang berharga murah.
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/720/1*a_1L3pYwMquKN2ouFjzAnQ.jpeg" alt="Caslon Specimen" title="Caslon Specimen"><span class="img-caption">Caslon <em>specimen</em>.</span>
 
