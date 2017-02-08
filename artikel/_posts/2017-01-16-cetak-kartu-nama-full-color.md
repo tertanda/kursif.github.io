@@ -4,7 +4,7 @@ category : artikel
 permalink: artikel/:title
 title    : Cetak Kartu Nama Full Color
 author   : El Nino H. Maulana
-intro    : Kartu nama menjadi salah satu benda wajib jika Anda memiliki bisnis. Salah satu alasannya, kartu nama adalah media terbaik untuk bertukar kontak dengan orang lain. Lihat apa yang dapat kami lakukan untuk Anda.
+intro    : Cetak kartu nama dengan harga mulai dari Rp.35.000,.
 meta     : Cetak kartu nama full color dengan harga mulai dari Rp.35.000,.
 ---
 
