@@ -4,7 +4,7 @@ category : artikel
 permalink: artikel/:title
 title    : Percetakan Kursif
 author   : El Nino H. Maulana
-intro    : Percetakan Kursif berada di kota Solo.
+intro    : Percetakan Kursif melayani cetak stiker, plastik, kardus, dsb.
 meta     : Percetakan Kursif adalah percetakan stiker, plastik, kardus, kartu nama, brosur, paper bag, dsb. di kota Solo, Jawa Tengah.
 ---
 
