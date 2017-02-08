@@ -16,7 +16,7 @@ Umumnya, produk makanan seperti roti, kue, dsj., menggunakan plastik kemasan rot
 
 Keuntungan lainnya adalah, selain tampilannya yang menarik, plastik OPP berharga murah. Kami menjual plastik OPP untuk kemasan roti, kue, dsj., mulai dari Rp.30 per lembar. Dengan harga yang terjangkau, Anda dapat menarik minat pelanggan untuk membeli produk Anda.
 
-Berikut adalah daftar harga plastik kemasan roti yang umumnya digunakan oleh pelanggan kami. Jika Anda ingin melihat daftar harga plastik yang lain, kunjungi halaman <a href="http://kursif.com/daftar-harga/" title="Daftar Harga Plastik">Daftar Harga</a>. Sedangkan, jika ukuran yang Anda cari tidak ada, silahkan hubungi kami.
+Berikut adalah daftar harga plastik kemasan roti yang umumnya digunakan oleh pelanggan kami. Jika Anda ingin melihat daftar harga plastik yang lain, kunjungi halaman <a href="{{base.url}}/daftar-harga/" title="Daftar Harga Plastik">Daftar Harga</a>. Sedangkan, jika ukuran yang Anda cari tidak ada, silahkan hubungi kami.
 
 {%include part/price/plastik-opp.html%}
 
