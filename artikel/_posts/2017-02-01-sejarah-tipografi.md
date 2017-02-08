@@ -4,8 +4,8 @@ category : artikel
 permalink: artikel/:title
 title    : Sejarah Tipografi
 author   : El Nino H. Maulana
-intro    : Sejarah perkembangan tipografi.
-meta     : Sejarah lengkap perkembangan tipografi, dari abad 11 hingga 21.
+intro    : Sejarah perkembangan tipografi, dari abad ke-11 hingga 21.
+meta     : Sejarah lengkap perkembangan tipografi, dari abad ke-11 hingga 21.
 ---
 
 # Sejarah Tipografi
