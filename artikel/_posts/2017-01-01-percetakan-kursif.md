@@ -4,7 +4,7 @@ category : artikel
 permalink: artikel/:title
 title    : Percetakan Kursif
 author   : El Nino H. Maulana
-intro    : Kursif adalah percetakan yang berfokus dalam mencetak stiker, plastik, kardus, kartu nama, brosur, <em>paper bag</em>, dsb. Kami berpusat di kota Surakarta, Jawa Tengah, dan melayani konsumen di seluruh Indonesia.
+intro    : Percetakan Kursif berada di kota Solo.
 meta     : Percetakan Kursif adalah percetakan stiker, plastik, kardus, kartu nama, brosur, paper bag, dsb. di kota Solo, Jawa Tengah.
 ---
 
