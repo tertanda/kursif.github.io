@@ -18,7 +18,7 @@ Untuk membantu Anda, kami melayani pembelian kemasan plastik OPP polos maupun ce
 
 {%include part/price/plastik-opp.html%}
 
-<p class="shame-clear">Untuk daftar harga plastik yang lain, silahkan kunjungi halaman <a href="http://kursif.com/daftar-harga/" title="Daftar Harga Plastik">Daftar Harga</a>. Jika ukuran yang Anda cari tidak ada, silahkan hubungi kami.</p>
+<p class="shame-clear">Untuk daftar harga plastik yang lain, silahkan kunjungi halaman <a href="{{base.url}}/daftar-harga/" title="Daftar Harga Plastik">Daftar Harga</a>. Jika ukuran yang Anda cari tidak ada, silahkan hubungi kami.</p>
 
 **Berapa minimal order?**
 
