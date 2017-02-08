@@ -4,7 +4,7 @@ category : artikel
 permalink: artikel/:title
 title    : Cetak Stiker Vinyl Full Color
 author   : El Nino H. Maulana
-intro    : Saat ini, banyak produk industri yang mulai beralih menggunakan stiker sebagai label produk. Salah satu alasannya adalah karena stiker dapat dicetak <em>full color</em> dengan harga yang terjangkau.
+intro    : Cetak stiker <em>vinyl full color</em> dengan harga mulai dari Rp.250,.
 meta     : Cetak stiker vinyl full color dengan harga mulai dari Rp.250,.
 ---
 
