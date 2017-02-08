@@ -4,7 +4,7 @@ category : artikel
 permalink: artikel/:title
 title    : Pengertian Tipografi
 author   : El Nino H. Maulana
-intro    : Apa pengertian dan makna tipografi?
+intro    : Pengertian tipografi adalah tampilan visual sebuah bahasa.
 meta     : Pengertian tipografi adalah tampilan visual sebuah bahasa.
 ---
 
