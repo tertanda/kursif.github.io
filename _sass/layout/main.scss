@@ -194,9 +194,18 @@
 .site-article__link,
 .site-article__link span { display: block; }
 
-.site-article__item { margin-bottom: 2.5rem; }
+.site-article__item {
+    border-bottom: 1px solid #eaeaea;
+    padding-bottom: 2.5rem;
+    padding-top: 2.5rem;
+}
 
-.site-article__item:last-child { margin-bottom: 0; }
+.site-article__item:first-child { padding-top: 2.5rem; }
+
+.site-article__item:last-child {
+    border-bottom: 0;
+    padding-bottom: 0;
+}
 
 .site-article__intro {
     color: #333;
