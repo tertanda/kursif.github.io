@@ -4,7 +4,7 @@ category :  artikel
 permalink:  artikel/:title
 title    :  Cetak Stiker Full Color
 author   :  El Nino H. Maulana
-intro    :  Saat ini, konsumen semakin peduli dengan penampilan produk. Semakin baik penampilan produk, semakin senang konsumen membelinya. Jadi, Anda sebaiknya memberikan pelayanan dan produk yang terbaik.
+intro    :  Cetak stiker <em>full color</em> dengan harga mulai dari Rp.250,.
 meta     : "Cetak stiker full color: stiker label, stiker galon, dsb., dengan harga mulai dari Rp.250,."
 ---
 
