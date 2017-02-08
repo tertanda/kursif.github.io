@@ -4,7 +4,7 @@ category : artikel
 permalink: artikel/:title
 title    : Cetak Stiker Label Kemasan
 author   : El Nino H. Maulana
-intro    : Saat ini, stiker mulai populer digunakan sebagai label kemasan produk. Jika Anda sedang mencari atau ingin mencetak stiker label kemasan, kami menyarankan untuk menggunakan stiker kromo sebagai label kemasan.
+intro    : Cetak stiker label kemasan dengan harga mulai dari Rp.200,.
 meta     : Cetak stiker full color untuk label kemasan makanan dan minuman dengan harga mulai dari Rp.200,.
 ---
 
