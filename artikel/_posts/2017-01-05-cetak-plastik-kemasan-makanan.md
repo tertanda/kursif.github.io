@@ -16,7 +16,7 @@ Jika Anda sedang mencari atau ingin mencetak plastik kemasan makanan untuk produ
 
 Untuk membantu Anda, kami menyediakan layanan cetak plastik kemasan makanan. Kami memiliki banyak macam ukuran dan jenis plastik mulai dari OPP Duduk hingga OPP *Seal*, dengan harga mulai dari Rp.30 per lembar.
 
-Berikut adalah daftar harga plastik OPP *Seal*, untuk melihat daftar harga plastik yang lain, Anda dapat mengunjungi halaman <a href="http://kursif.com/daftar-harga/" title="Daftar Harga Plastik">Daftar Harga</a>. Jika ukuran yang Anda butuhkan tidak ada, silahkan hubungi kami.
+Berikut adalah daftar harga plastik OPP *Seal*, untuk melihat daftar harga plastik yang lain, Anda dapat mengunjungi halaman <a href="{{base.url}}/daftar-harga/" title="Daftar Harga Plastik">Daftar Harga</a>. Jika ukuran yang Anda butuhkan tidak ada, silahkan hubungi kami.
 
 {%include part/price/plastik-opp.html%}
 
