@@ -18,7 +18,7 @@ Jika Anda sedang mencari atau ingin mencetak plastik kresek, kami dapat membantu
 
 {%include part/price/plastik-kresek.html%}
 
-<p class="shame-clear">Bukan hanya menjual dan mencetak plastik kresek, kami juga menyediakan berbagai macam jenis plastik. Jadi, Anda sedang berada di tempat yang tepat. Untuk daftar harga plastik yang lain, silahkan kunjungi halaman <a href="http://kursif.com/daftar-harga/" title="Daftar Harga Plastik">Daftar Harga</a>. Sedangkan, jika ukuran yang Anda cari tidak ada, silahkan hubungi kami.</p>
+<p class="shame-clear">Bukan hanya menjual dan mencetak plastik kresek, kami juga menyediakan berbagai macam jenis plastik. Jadi, Anda sedang berada di tempat yang tepat. Untuk daftar harga plastik yang lain, silahkan kunjungi halaman <a href="{{base.url}}/daftar-harga/" title="Daftar Harga Plastik">Daftar Harga</a>. Sedangkan, jika ukuran yang Anda cari tidak ada, silahkan hubungi kami.</p>
 
 <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://cdn-images-1.medium.com/max/720/1*sjrOyYpk1RwCrjCBA7jSGw.jpeg" alt="Cetak Plastik Kresek" title="Cetak Plastik Kresek"><span class="img-caption">Cetak plastik kresek. &copy; Pinterest</span>
 
