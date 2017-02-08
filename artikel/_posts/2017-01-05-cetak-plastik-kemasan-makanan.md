@@ -4,7 +4,7 @@ category :  artikel
 permalink:  artikel/:title
 title    :  Cetak Plastik Kemasan Makanan
 author   :  El Nino H. Maulana
-intro    :  Jika Anda sedang mencari plastik kemasan makanan untuk produk seperti roti, maka kami menyarankan untuk menggunakan plastik OPP. Alasannya, plastik OPP dapat melindungi produk makanan dengan lebih baik.
+intro    :  Cetak plastik kemasan makanan dengan harga mulai dari Rp.150,.
 meta     : "Cetak plastik kemasan makanan: Plastik OPP dan Plastik PP, dengan harga mulai dari Rp.150,."
 ---
 
