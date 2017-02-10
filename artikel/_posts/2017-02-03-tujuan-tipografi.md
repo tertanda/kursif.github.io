@@ -12,7 +12,7 @@ meta     : Tujuan tipografi adalah menyampaikan makna tulisan.
 
 Tipografi adalah pengetahuan yang sebaiknya dimiliki oleh semua orang. Karena tipografi membantu kita memudahkan berkomunikasi. Tujuan tipografi adalah menyampaikan makna tulisan. Kita menilai baik buruknya sebuah tipografi dari apakah pembaca dapat memahami apa yang mereka baca atau tidak.
 
-<p>Bagaimana jika dari awal tulisannya susah dipahami? Seperti misalnya, "Ayah membaca koran, lalu ia memakan roti," siapa ia? Anda benar, jika tulisan susah dipahami dari awal, maka semuanya tetap akan berantakan. Untuk itulah, tugas <a href="{{base.url}}/artikel/pengertian-tipografi" title="Pengertian Typographer"><em>typographer</em></a> bukan hanya menyusun tipografi, *typographer* juga perlu memperbaiki tulisan.</p>
+<p>Bagaimana jika dari awal tulisannya susah dipahami? Seperti misalnya, &ldquo;Ayah membaca koran, lalu ia memakan roti,&rdquo; siapa ia? Anda benar, jika tulisan susah dipahami dari awal, maka semuanya tetap akan berantakan. Untuk itulah, tugas <a href="{{base.url}}/artikel/pengertian-tipografi" title="Pengertian Typographer"><em>typographer</em></a> bukan hanya menyusun tipografi, <em>typographer</em> juga perlu memperbaiki tulisan.</p>
 
 > Tujuan tipografi adalah menyampaikan makna tulisan.
 
