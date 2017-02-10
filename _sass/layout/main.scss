@@ -218,14 +218,14 @@
 }
 
 .site-article__load-more {
-    border: 0 solid #eaeaea;
-    border-bottom-width: 1px;
-    border-top-width: 1px;
+    border-bottom: 1px solid #eaeaea;
     display: block;
     padding-bottom: 1rem;
     padding-top: 1rem;
     text-align: center;
 }
+
+.js-hidden { display: none; }
 /*
  | ARTICLE ENDS
  */
