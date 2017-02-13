@@ -17,7 +17,7 @@ Berikut dua prinsip tipografi yang baik:
 1. *Legible* dan *readable*.
 2. Menyampaikan makna tulisan.
 
-## *Legible* dan *Readable*
+## Legible dan Readable
 
 Pengertian *legible* adalah kemudahan karakter untuk dibedakan. Pernahkah Anda membaca angka 13 sebagai huruf B? Seperti misalnya, 1213 menjadi 12B? Itulah tipografi yang buruk, *illegible*, yang berarti karakter tidak mudah dibedakan. Dalam tipografi, *legibility* mempengaruhi banyak hal, termasuk *readability*.
 
