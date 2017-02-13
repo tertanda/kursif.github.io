@@ -31,4 +31,4 @@ Pertama, Anda harus memahami makna dan tujuan tulisan. Kedua, Anda harus memilih
 
 ### Ringkasan
 
-Dengan memahami *legibility* dan *readability*, Anda telah memiliki bekal untuk memilih *typeface* dan menyusun tipografi yang baik. Pada artikel selanjutnya, kita akan membagikan sumber bacaan di mana kami mempelajari tipografi yang baik. Semoga Anda juga dapat mempelajari tipografi yang baik.
+Dengan memahami *legibility* dan *readability*, Anda telah memiliki bekal untuk memilih *typeface* dan menyusun tipografi yang baik. Pada artikel selanjutnya, kami akan membagikan sumber bacaan di mana kami mempelajari tipografi yang baik.
