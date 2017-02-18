@@ -4,7 +4,7 @@ category : artikel
 permalink: artikel/:title
 title    : Cetak Stiker Label Makanan dan Minuman
 author   : El Nino H. Maulana
-intro    : Cetak stiker label <em>full color<em/> dengan harga mulai dari Rp.175,.
+intro    : Cetak stiker label <em>full color</em> dengan harga mulai dari Rp.175,.
 meta     : Cetak stiker label makanan dan minuman dengan harga mulai dari Rp.175,.
 ---
 
